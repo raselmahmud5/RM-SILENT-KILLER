@@ -1,1 +1,7 @@
-
+{
+  "prefix": "*",
+  "adminOnly": false,
+  "autoSeen": true,
+  "autoReact": true,
+  "antiUnsend": true
+}
