@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "rules": [
+    {"keywords":["hello","hi"],"reaction":"💙"},
+    {"keywords":["good job","Assalamualaikum"],"reaction":"🎉"}
+  ]
+}
