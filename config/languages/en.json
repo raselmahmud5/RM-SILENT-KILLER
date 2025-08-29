@@ -1,1 +1,5 @@
-
+{
+  "welcome": "Welcome to the group!",
+  "leave": "has left the group.",
+  "help": "Here are the commands you can use:"
+}
