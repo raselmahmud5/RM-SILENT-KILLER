@@ -17,19 +17,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: 22
+
+      - name: Copy local fca-rasel
+        run: mkdir -p node_modules/fca-rasel && cp -R local_packages/fca-rasel/* node_modules/fca-rasel/
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --ignore-scripts
 
       - name: Copy .env
         run: cp .env.example .env || true
 
-      - name: Install local fca-rasel
-        run: npm install ./fca-rasel || true
-
       - name: Run Database Migration
-        run: node scripts/migrate.js || true
+        run: node scripts/migrate.js
 
       - name: Start Bot
         run: node index.js
