@@ -1,7 +1,32 @@
+name: Deploy Bot
 
-# ──────────────────────────────
-Workflow for Bot Deployment
-# This is ONLY for demonstration
-# Copy these steps to your deploy.yml file in:
-# .github/workflows/deploy.yml
-# ──────────────────────────────
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Copy .env
+        run: cp .env.example .env
+
+      - name: Run Database Migration
+        run: node scripts/migrate.js
+
+      - name: Start Bot
+        run: node index.js
