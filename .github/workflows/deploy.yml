@@ -1,1 +1,7 @@
 
+# ──────────────────────────────
+Workflow for Bot Deployment
+# This is ONLY for demonstration
+# Copy these steps to your deploy.yml file in:
+# .github/workflows/deploy.yml
+# ──────────────────────────────
