@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #f5f5f5;
+  padding: 20px;
+}
+
+h1 {
+  color: #00ffcc;
+}
+
+#stats, #commands {
+  margin-top: 20px;
+  padding: 10px;
+  background: #1e1e1e;
+  border-radius: 8px;
+}
