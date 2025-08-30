@@ -1,7 +1,7 @@
 {
-  "name": "your-bot",
+  "name": "rm-silent-killer-bot",
   "version": "1.0.0",
-  "description": "My Facebook bot",
+  "description": "Facebook Messenger bot by Rasel Mahmud",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
