@@ -1,4 +1,4 @@
-const { login } = require("fca-priyansh");
+const { login } = require("fca-rasel");
 const loader = require("./core/loader");
 const handler = require("./core/handler");
 const fs = require("fs-extra");
