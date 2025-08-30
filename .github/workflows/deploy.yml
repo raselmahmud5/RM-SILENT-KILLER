@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -16,13 +17,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 22
+          node-version: '18'
 
       - name: Install dependencies
         run: npm install
 
       - name: Copy .env
         run: cp .env.example .env || true
+
+      - name: Install local fca-rasel
+        run: npm install ./fca-rasel || true
+
+      - name: Run Database Migration
+        run: node scripts/migrate.js || true
 
       - name: Start Bot
         run: node index.js
