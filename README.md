@@ -1,23 +1,3 @@
-# SIFU-ANIMATE-README.MD
-# DOWNLOAD MY SVG FILES AND COPY MY README.MD 
-
-____
-
-# VIEW MY README.MD PROJECT 🐤 
-____
-
-
-
-
-
-
-![Sifu](Sifu/wellcome.svg)
-
-<p align="center">
-  <a href="http your website  " target="_blank">
-    <img src="./Sifu/paircode-link.svg" width="240" alt="🎀🐸">
-  </a>
-</p>
 
 
 ![Sifu](Sifu/mr.svg)
