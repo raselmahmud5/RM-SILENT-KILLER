@@ -1,162 +1,117 @@
-# ༊✨𝐌𝐀𝐆𝐈𝐂🔹𝐎𝐅🔸𝐒𝐎𝐔𝐍𝐃✨᯾
+# SIFU-ANIMATE-README.MD
+# DOWNLOAD MY SVG FILES AND COPY MY README.MD 
 
-Powerful Messenger Bot by Rasel Mahmud
-[![Bot Status](https://img.shields.io/badge/status-online-brightgreen)]()
-# ༊✨𝐌𝐀𝐆𝐈𝐂𝐎𝐅𝐒𝐎𝐔𝐍𝐃✨᯾
+____
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="280"/>
-</p>
+# VIEW MY README.MD PROJECT 🐤 
+____
 
-<p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=00ffff&center=true&vCenter=true&lines=༊✨MAGIC+OF+SOUND✨᯾" alt="Magic of Sound typing"/>
-</p>
 
-<p align="center">
-  <strong>👑 𝐎𝐰𝐧𝐞𝐫:</strong><br>
-  <img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=𝗥𝗮𝘀𝗲𝗹+𝗠𝗮𝗵𝗺𝘂𝗱" alt="Owner typing"/><br><br>
-  <strong>📅 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐝:</strong><br>
-  <img src="http://readme-typing-svg.herokuapp.com?color=ff1493&center=true&vCenter=true&lines=28/07/2025" alt="Release date typing"/>
-</p>
+
+
+
+
+![Sifu](Sifu/wellcome.svg)
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="280"/>
-</p>
-
----
-
-## 🌟 পরিচিতি
-
-**༊✨MAGIC OF SOUND✨᯾** কোনো সাধারণ বট না —  
-এটা একদম ভিন্নধর্মী, যেখানে মেসেজের মাধ্যমে মজা, আবেগ আর একটুকরো ম্যাজিক একসাথে পাওয়া যায়।
-
-> 🎧 প্রতিটি কমান্ডে থাকে কল্পনার ছোঁয়া,  
-> 💫 আর প্রতিক্রিয়াগুলোয় লুকিয়ে থাকে একটু চমক।
-
----
-
-## 🖼️ 𝐁𝐨𝐭 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 ✨
-
-<p align="center">
-  <img src="https://i.imgur.com/mWuHL8E.png" alt="Bot Image" width="300"/>
-</p>
-
----
-
-## 🚀 ব্যবহারবিধি (How to use)
-
-১. নিচের Messenger গ্রুপে জয়েন করুন ✅
-২. কমান্ড লিখুন আর ম্যাজিক উপভোগ করুন 🎉
-৩. বটের কমান্ড জানতে *help লিখতে হবে 🌺
-
-🔗 **Messenger Group:**  
-👉 [এখানে ক্লিক করে জয়েন করুন](https://m.me/j/AbZnvggXXnMoLZd7/)
-
----
-
-## 📡 যোগাযোগ করুন
-
-📘 **Facebook (Main):** [Rasel Mahmud](https://www.facebook.com/raselmahmud.q)  
-👤 **Facebook (Alt):** [View Profile](https://www.facebook.com/iiii.482394)  
-📺 **YouTube Channel:** [𝐑𝐌 𝐒𝐈𝐋𝐄𝐍𝐓 𝐊𝐈𝐋𝐋𝐄𝐑](https://youtube.com/@rmsilentgaming?si=jdMyMhECKt2iHCh-)
-> ✨ আপনার কোনো পরামর্শ, প্রশ্ন বা আইডিয়া থাকলে, নির্দ্বিধায় যোগাযোগ করুন।
-
----
-
-## 💬 শেষ কিছু কথা
-
-> 💙 এই বট বানানো হয়েছে মজা, ভালোবাসা আর আপনার কাজকে সহজের জন্য কেউ বট দিয়ে অপব্যবহার করবেন না ।  
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="280"/>
-</p>
-
-<p align="center">
-
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="280"/>
+  <a href="http your website  " target="_blank">
+    <img src="./Sifu/paircode-link.svg" width="240" alt="🎀🐸">
+  </a>
 </p>
 
 
-## Setup
+![Sifu](Sifu/mr.svg)
 
-1. Clone repo
-2. Copy `.env.example` → `.env` এবং আপডেট করো
-3. Run `npm install`
-4. Run `npm start` or `npm run dev`
 
-## Features
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=008080&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
+  </div>
+<a><img src='https://i.imgur.com/ppnHztX.gif?'/></a>
 
-- VIP/Admin/General permission
-- Modular commands
-- Auto-react
-- Auto-unsend on reaction
-- Scheduler
-- Logging
-- Database support
-- Multi-language (i18n)
-- Plugins support
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="280"/>
+
+
+![Sifu](Sifu/deployment.svg)
+
+
+
+![Sifu](Sifu/typing-ticker.svg)
+
+
+
+![Sifu](Sifu/beta-v5.svg)
+
+
+
+
+
+
+![Sifu](Sifu/feature-bot.svg)
+
+
+
+
+ <p align="center">
+  <a href="https://whatsapp.com/dl/" target="_blank">
+    <img src="Sifu/channel-update.svg" width="300" alt="Whatsapp channel Link"/>
+  </a>
 </p>
 
-<p align="center">
-  <strong>
-    🪄 Thanks for visiting<br>
-    🔊 MAGIC OF SOUND ✨<br>
-    Made
-    💙By Rasel Mahmud
-  </strong>
-</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="280"/>
+
+ <p align="center">
+  <a href="https://m.me/j/AbYtX_MzRz5ykdhT/" target="_blank">
+    <img src="Sifu/mss.svg" width="" alt="massanger channel Link"/>
+  </a>
 </p>
 
 
-# Deploy Bot via GitHub Actions
 
-এই GitHub Actions workflow ব্যবহার করে তোমার বট সরাসরি GitHub থেকে deploy করা যাবে।  
 
-## Steps
 
-1. `.env.example` ফাইল তৈরি থাকবে। Workflow এ এটি `.env` হিসেবে কপি হবে।  
-2. Database migration স্বয়ংক্রিয়ভাবে করা হবে।  
-3. Node.js 22 ব্যবহার করা হবে।  
 
-## Workflow Code
+ <p align="center">
+  <a href="https://github.com/KAKASHI-V5/SIZUKA-V3/fork" target="_blank">
+    <img src="Sifu/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
+  </a>
+</p>
 
-```yaml
-name: Deploy Bot
 
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+<p align="center">
+  <a href="http your website  " target="_blank">
+    <img src="./Sifu/paircode-link.svg" width="195" alt="🎀🐸">
+  </a>
+</p>
 
-jobs:
-  build-and-run:
-    runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '22'
+ <p align="center">
+  <a href="https://m.youtube.com/@itzsifuff" target="_blank">
+    <img src="Sifu/youtube.svg" width="300" alt="yt channel Link"/>
+  </a>
+</p>
 
-      - name: Install Dependencies
-        run: npm install
 
-      - name: Copy .env
-        run: cp .env.example .env
 
-      - name: Run Database Migration
-        run: node scripts/migrate.js
 
-      - name: Start Bot
-        run: node index.js
+
+
+![Sifu](Sifu/license.svg)
+
+
+
+<p align="center">
+    <img src="./Sifu/maintenance.svg" width="240" alt="🎀🐸">
+  </a>
+</p>
+
+
+
+<p align="center">
+    <img
+     src="./Sifu/dev-gold-mini.svg"
+     width="240"
+     </a>
+</p>
+
+
+
+![Sifu](Sifu/nolove.svg)
